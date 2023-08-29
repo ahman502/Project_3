@@ -1,0 +1,13 @@
+.bg-custom {
+    background-color: darkgrey;
+}
+
+.fs-custom {
+    font-size: 10px;
+}
+
+.image-design {
+    object-fit: contain;
+    max-width: 100%;
+    max-height: 100px;
+}
